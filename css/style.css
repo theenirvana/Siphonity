@@ -58,55 +58,19 @@
     color:black;
     font-weight:10px;
 }
+footer{
+    background-color:rgb(8, 8, 63);
+    height:20vw; 
+}
 .copyright{
     position: relative;
-    top:90%;
+    top:87%;
     left: 34%;
-    font-size: 0.6rem;
-    width:34%;
-    background-color:rgb(6, 6, 75) ;
-    border-bottom-left-radius: 3rem;
-    border-top-right-radius: 3rem;
-    margin-top: 10rem;
 }
 .copyright-row{
-    padding:0.3rem 1rem 0.3rem 1rem ;
     color:white;
+    font-size: 1rem;
 }
 #insta-link{
     color: white;
-    font-size: 0.6rem;
-}
-#info-image{
-    width: 100%;
-    height: 100%;
-}
-.column-1-intro{
-    width:50%;
-    padding-top:2rem;
-}
-.intro-heading,.intro-para{
-    margin:0  0 0  5rem ;
-}
-.intro-heading{
-    font-size: 4rem;
-    color:rgb(6, 6, 75);
-}
-.intro-para{
-    font-size: 4rem;
-    color:rgb(4, 76, 82);
-    margin-top:2rem;
-}
-.Services-heading{
-    color:rgb(6, 6, 75);
-    margin:2rem  0 0  5rem ;
-    font-size: 4rem;
-}
-#services-image{
-    width: 50%;
-    height: 50%;
-    margin: 3rem 0 0 5rem ;
-}
-.services-column{
-    width:25%;  
 }
