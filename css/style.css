@@ -38,6 +38,13 @@
 }
 .about-heading{
     margin:0 0 3vw 0 ;
+    
+}
+#about-us{
+    margin-left: 3vw;
+    color:rgb(8, 8, 63);
+    font-size: 3rem;
+    font-weight: bold;
 }
 .About-myself{
     display: inline-block;   
@@ -48,7 +55,6 @@
     width:50%;
     height: 100%;
     padding:0 0 0 7vw;  
-    border-radius: 4px;  
 }
 #myname{
     font-size: 2rem;
@@ -56,13 +62,27 @@
     font-weight: bolder;
 }
 .intro-myself{
-    line-height: 3vw;
+    line-height: 4vw;
     color:black;
     font-weight:10px;
 }
-#icon{
-    color:pink;
+#icon-insta{
+    color:rgb(219, 16, 175);
+    font-size: 2rem;    
 }
+#icon-fb{
+    color:rgba(10, 114, 100, 0.623);
+    font-size: 2rem;    
+}
+#icon-github{
+    color:rgb(0, 0, 0);
+    font-size: 2rem;    
+}
+#icon-twitter{
+    color:rgb(9, 218, 255);
+    font-size: 2rem;    
+}
+
 footer{
     background-color:rgb(8, 8, 63);
     height:20vw; 
