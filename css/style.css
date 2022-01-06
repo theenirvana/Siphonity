@@ -65,11 +65,12 @@ footer{
 .copyright{
     position: relative;
     top:87%;
-    left: 34%;
 }
 .copyright-row{
+    position: absolute;
     color:white;
     font-size: 1rem;
+    left:26vw;
 }
 #insta-link{
     color: white;
