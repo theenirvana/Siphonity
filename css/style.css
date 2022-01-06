@@ -4,6 +4,7 @@
     font-family: 'Heebo', sans-serif;
     font-family: 'Merriweather', serif;
     font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
 }
 .header{
     background-color:rgb(8, 8, 63);
@@ -48,12 +49,14 @@
 .About-myself{
     display: inline-block;   
     width:50vw;
-    height:20vw;  
+    height:20vw;
+    margin-left:55 ;  
 }
 #myimage{
     width:50%;
     height: 100%;
-    padding:0 0 0 7vw;  
+    padding:0 00 0 15%; 
+    border-radius: 50%;
 }
 #myname{
     font-size: 2rem;
@@ -83,17 +86,31 @@
 }
 .t-p{    
     border-collapse: separate;
+    padding-left: 3vw;
 }
 .partner-row{
-    width:95.3vw;
-    border: 3px solid red;
+    width:90vw;
     display: inline-block;
     margin-top: 3rem;
+    
+    padding:0 0 0 5vw;
+}
+#pc{
+    font-size: 5rem;
+    text-align: center;
+    padding:5vw 0 0 5vw;
+}
+#pc-1{
+    font-size: 2rem;
+    padding:3vw 3vw 0 0;
+    font-weight: bolder;
 }
 .partner-column{
-    width:25%;    
-    border: 3px solid red;
-    height: 10vw;
+    float: left;
+    width: 32%;
+    padding-left: 4vw;
+    height: 300px;  
+    background-color:pink;
 }
 
 
