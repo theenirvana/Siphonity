@@ -118,11 +118,11 @@
 
 footer{
     background-color:rgb(8, 8, 63);
-    height:20vw; 
+    height:5vw; 
 }
 .copyright{
     position: relative;
-    top:87%;
+    top:50%;
 }
 .copyright-row{
     position: absolute;
