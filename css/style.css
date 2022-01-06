@@ -84,6 +84,9 @@
     color:rgb(9, 218, 255);
     font-size: 2rem;    
 }
+#icon-link{
+    font-size: 2rem;    
+}
 .t-p{    
     border-collapse: separate;
     padding-left: 3vw;
