@@ -67,10 +67,10 @@
     background-size: cover;
     display: flex;
 }
-.about-heading{
+.heading{
     margin:4rem 0 4vw 0 ;    
 }
-#about-us{
+#heading-title{
     margin-left: 3vw;
     color:rgb(8, 8, 63);
     font-size: 2rem;
@@ -152,6 +152,36 @@
     height: 300px;  
     background-color:rgba(19, 52, 53, 0.034);
 }
+.vision-desc{
+    width:95vw;
+    padding:2vw 0 0 9vw;
+}
+.vision-row{
+    height: 10vw;
+    
+}
+.vision-column-1{
+    width:40vw;
+    margin-top: 3vw;
+}
+.vision-column-2{
+    margin-top: 3vw;
+    width:50vw;
+}
+.vision-p{
+    padding: 1vw 1vw 1vw 1vw ;
+    text-align: justify;
+    color:rgb(16, 16, 17);
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+
 footer{
     background-color:rgb(8, 8, 63);
     height:5vw; 
