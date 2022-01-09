@@ -28,19 +28,17 @@
 }
 .tagline{
     padding-left: 2vw;
-    
-    text-align: center;
     text-align: justify-all;
 }
 .t-1{
-    font-size: 5vw;
+    font-size: 6vw;
     color:green;
     font-weight: bold;
 }
 .t-2{
     font-size: 2vw;
     font-weight: bolder;
-    color:rgb(219, 33, 142);
+    color:rgb(219, 33, 135);
 }
 .t-3{
     color:rgb(182, 22, 121);
@@ -76,7 +74,7 @@
     margin-left: 3vw;
     color:rgb(8, 8, 63);
     font-size: 2rem;
-    font-weight: bold;
+    font-weight:bolder;
 }
 .About-myself-img{
     display: inline-block;   
