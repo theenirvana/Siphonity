@@ -161,12 +161,16 @@
     
 }
 .vision-column-1{
-    width:40vw;
+    width:20vw;
     margin-top: 3vw;
 }
 .vision-column-2{
     margin-top: 3vw;
-    width:50vw;
+    width:70vw;
+}
+.vision-h{
+    font-size:3rem;
+    color:rgb(3, 128, 76);
 }
 .vision-p{
     padding: 1vw 1vw 1vw 1vw ;
