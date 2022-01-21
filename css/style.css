@@ -79,12 +79,15 @@
 
 .About-section{
     display: flex;
+    background-image: linear-gradient(rgba(27, 110, 116, 0.39),rgba(6, 14, 129, 0.589)),url("img/bg-img\ \(3\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .About-hero{
-    background-color: rgba(3, 5, 100, 0.856);
     border-radius: 1rem;       
     position: relative;     
-    left:30vw;
+    left:2vw;
 }
 .About-myself{
     width:40vw;      
@@ -103,31 +106,31 @@
     font-weight: bolder;
 }
 .intro-myself{
-    line-height: 3.7vw;
-    font-size:2vw;
+    line-height: 2vw;
+    font-size:1vw;
     color:white;
     font-weight:bolder;
 }
 #icon-insta{
-    color:white;
+    color:rgb(9, 199, 189);
     font-size: 3vw;    
 }
 #icon-fb{
     
-    color:white;
+    color:rgb(0, 183, 255);
     font-size: 3vw;     
 }
 #icon-github{
-    color:white;
+    color:black;
     font-size: 3vw;    
 }
 #icon-twitter{
-    color:white;
+    color:rgb(0, 247, 255);
     font-size: 3vw;    
 }
 #icon-link{
     font-size: 3vw;  
-    color:white;  
+    color:rgb(12, 156, 240);  
 }
 .t-p{    
     border-collapse: separate;
@@ -185,7 +188,7 @@
     font-size: 1.2vw;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
-
+}
 
 
 footer{
